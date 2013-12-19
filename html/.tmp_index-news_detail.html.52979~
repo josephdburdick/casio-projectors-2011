@@ -1,0 +1,248 @@
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+            "http://www.w3.org/TR/html4/strict.dtd">
+    <html> 
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta name="description" content="For the Presenter On The Go!">
+		<meta name="keywords" content="Casio, Projectors">
+		<meta name="author" content="SGC, Joey">
+		<meta name="robots" content="all">
+				
+		<title>Casio Projectors</title>
+		
+		
+		<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/reset.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/style.css">
+		
+		<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/style-ie7.css">
+		<![endif]-->
+
+	</head>
+	<body>
+		
+		
+		
+		
+<div id="body-container">
+	
+	<div id="header">
+		<div id="header-TopLinks">
+			<ul class="floatLeft">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="index-landing.html">Projectors</a></li>
+				<li><a href="index-features_LampAndMercuryFree.html">Features</a></li>
+				<li><a href="index-wheretobuy.html">Where To Buy</a></li>
+				<li><a href="index-support.html">Support</a></li>
+			</ul> 
+			<ul class="floatRight">
+				<li><a href="index-news.html" class="active">news</a></li>
+				<li><a href="index-mailinglist.html">mailing list</a></li>
+				<li><h1><a href="index.html"><img src="../images/index-topLinks-logo.png" alt="Casio" id="header-logo"></a></h1></li>
+			</ul>  
+		</div><!-- End #header-TopNav-->
+		
+	</div><!-- End #header-->
+	
+	
+	<div id="body-MainContent">
+		<div id="index-MainDetail">	
+			
+			
+			<div id="news-detail-hero">
+				<div class="index-headline">
+					<h1><img src="../images/index-news/index-news-h1-LatestNews.png" alt="LATEST NEWS"></h1>
+				</div>
+			</div>	
+			
+			<ul class="followus">
+				<li class="label">Follow us on:</li>
+				<li><a href="http://twitter.com"><img src="../images/index-news/index-news_twitter.png" alt="Twitter"> Twitter</a></li>
+				<li><a href="mailto:emailaddress@casio.com"><img src="../images/index-news/index-news_email.png" alt="Email"> Email</a></li>
+			</ul>
+				
+			<ul class="news-landing-body1">
+				<li class="maindetail">
+				<h2><img src="../images/index-news/index-news-h2-BusinessNews.gif" alt="Business News"></h2>
+					<ul class="news-detail-articles">
+					<li class="thumb"><img src="../images/index-news/body-businessNews_thumb1.jpg" alt="thumb"></li>	
+					<li>
+					<h3>Nam libero tempore, cum soluta nobis est eligendi</h3>
+						<span>March 01 2011</span>
+						<p>Global telecommunications provider Alcatel-Lucent and nonprofit 
+						World Education recently announced a three-year initiative aimed at 
+						providing youth from disadvantaged communities with educational and 
+						digital skill training.</p>
+					</li>	
+					<li class="thumb"><img src="../images/index-news/body-businessNews_thumb2.jpg" alt="thumb"></li>			
+					<li>
+					<h3>Nam libero tempore, cum soluta nobis est eligendi</h3>
+						<span>February 15, 2011</span>
+						<p>Six workforce training programs in Oklahoma recently received $3 million 
+						in federal stimulus funding to promote careers in green industries.</p>
+						
+					<li class="thumb"><img src="../images/index-news/body-businessNews_thumb3.jpg" alt="thumb"></li>	
+					<li>
+					<h3>Nam libero tempore, cum soluta nobis est eligendi</h3>	
+						<span>February 25, 2011</span>
+						<p>On Wednesday, Epic Games, makers of Bulletstorm, Batman: Arkham Asylum 
+						and the popular Gears of War franchise, announced the release date for the 
+						lastest installment in the series. </p>
+					</li>
+					<li class="thumb"><img src="../images/index-news/body-businessNews_thumb4.jpg" alt="thumb"></li>	
+					<li>
+					<h3>Nam libero tempore, cum soluta nobis est eligendi</h3>	
+						<span>February 7, 2011</span>
+						<p>The Thomas B. Norton Public Library in Gulf Shores, Alabama, 
+						recently enhanced its services to its visitors by adding a variety of new 
+						tablets and eReaders to its facility, Baldwin County Now reports. </p>
+					</li>
+					<li class="thumb"><img src="../images/index-news/body-businessNews_thumb5.jpg" alt="thumb"></li>	
+					<li>
+					<h3>Nam libero tempore, cum soluta nobis est eligendi</h3>	
+						<span>February 25, 2011</span>
+						<p>On Wednesday, Epic Games, makers of Bulletstorm, Batman: Arkham Asylum 
+						and the popular Gears of War franchise, announced the release date for the 
+						lastest installment in the series. </p>
+					</li>
+					<li class="thumb"><img src="../images/index-news/body-businessNews_thumb6.jpg" alt="thumb"></li>	
+					<li>
+					<h3>Nam libero tempore, cum soluta nobis est eligendi</h3>	
+						<span>February 7, 2011</span>
+						<p>The Thomas B. Norton Public Library in Gulf Shores, Alabama, 
+						recently enhanced its services to its visitors by adding a variety of new 
+						tablets and eReaders to its facility, Baldwin County Now reports. </p>
+					</li>
+					<li class="thumb clear"></li>	
+					<li class="clear">
+					
+					</li>
+					</ul>	
+				</li><!-- END OF MAIN BODY -->
+				
+				
+				<li class="sidebar">
+					
+					<ul class="category-article">
+						<li><b>Articles by Category</b></li>
+						<li><a href="javascript:void(0)">Business Projectors (101)</a></li>
+						<li><a href="javascript:void(0)">Classroom Projectors (274)</a></li>
+						<li><a href="javascript:void(0)">Gaming Projectors (144)</a></li>
+						<li><a href="javascript:void(0)">Other Projector News (13)</a></li>
+					</ul>
+					
+					<h3>Related website page:<br>
+					Green Slim Projectors</h3>
+					
+					<h4>Business Projectors</h4>
+					<p>Mobile and powerful, the new Casio Green 
+						Slim Projector means success for 
+						professionals on the road... <a href="javascript:void(0)" class="sidebar-morelink">more &rarr;</a>
+					</p>
+					
+					
+					<h4>Classroom Projectors</h4>
+					<p>Casio's Green Slim Projector is leading 
+						the way in transforming how students 
+						learn... <a href="javascript:void(0)" class="sidebar-morelink">more &rarr;</a>
+					</p>
+					
+					<h4>Gaming Projectors</h4>
+					<p>Thanks to the Casio Green Slim Projector, 
+						you can now experience large screen gaming 
+						excitement... <a href="javascript:void(0)" class="sidebar-morelink">more &rarr;</a>
+					</p>
+					
+					<h4>Signage Projectors</h4>
+					<p>Mobile and powerful, the new Casio Green 
+						Slim Projector means success for 
+						professionals on the road... <a href="javascript:void(0)" class="sidebar-morelink">more &rarr;</a>
+					</p>
+					
+					
+				</li>
+			</ul>
+			
+			
+				
+				
+
+		</div><!-- END MAIN DETAIL PAGE -->
+		
+	</div><!-- END MAIN CONTENT -->
+			
+			
+			
+			<div id="footer">
+				<div id="footer-SiteMap">
+					
+					<ul>
+						<li class="col-first">
+							<img src="../images/index-footer-logo.png" alt="Laser & LED Hybrid" id="footer-logo">			
+						</li>
+						<li class="col-second">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Projectors</a></li>
+								<li><a href="javascript:void(0);">Features</a></li>
+								<li><a href="javascript:void(0);">Where to Buy</a></li>
+								<li><a href="javascript:void(0);">Support</a></li>
+							</ul>
+						</li>
+						<li class="col-third">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Greenslim</a></li>
+								<li><a href="javascript:void(0);">Pro Slim</a></li>
+								<li><a href="javascript:void(0);">Signature</a></li>
+								<li><a href="javascript:void(0);">Short-Throw</a></li>
+							</ul>
+						</li>
+						<li class="col-fourth">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Product Registration</a></li>
+								<li><a href="javascript:void(0);">Projector Support</a></li>
+								<li><a href="javascript:void(0);">Drivers / Downloads</a></li>
+								<li><a href="javascript:void(0);">Projector Accessories</a></li>
+								<li><a href="javascript:void(0);">Accessories</a></li>
+							</ul>
+						</li>
+						<li class="col-fifth">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Projector FAQ</a></li>
+								<li><a href="javascript:void(0);">Projector Manuals</a></li>
+								<li><a href="javascript:void(0);">Product Manuals</a></li>
+								<li><a href="javascript:void(0);">Contact Us</a></li>
+							</ul>
+						</li>
+					</ul>
+					
+				</div><!-- End #footer-SiteMap-->
+				
+				<div id="footer-Copyright">
+					<ul>
+						<li id="footer-1">&copy; 2007 - 2011 CASIO AMERICA, INC.</li>
+						<li id="footer-2"><a href="javascript:void(0);">Copyright</a></li>		
+						<li id="footer-3"><a href="javascript:void(0);">Privacy Policy</a></li>
+					</ul>
+					
+				</div><!-- End #footer-Copyright-->
+				
+			</div><!-- End #footer-->
+			
+		</div><!-- End #body-container-->
+		
+		
+		
+		
+		
+		
+		
+		<script type="text/javascript" src="../script/jquery-1.5.min.js"></script>
+		<script type="text/javascript" src="../script/cufon-yui.js"></script>
+		<script type="text/javascript" src="../script/jquery-detail.js"></script>
+	
+		
+	</body>
+</html>

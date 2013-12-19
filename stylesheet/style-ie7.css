@@ -1,0 +1,21 @@
+#presentation_pager li div.activeArrow{
+	margin:-5px auto 0;
+}
+div.index-headline h1{
+	margin:0 auto 10px auto;
+}
+
+div.index-headline h2{
+	margin:0 auto;
+}
+
+#index-hero div.hero-headline h1{
+	margin:0 auto 6px;
+}
+
+#index-buckets li div.bucketArrow{
+	bottom:23px;
+}
+a.hover-greenCircle:hover{
+	cursor:pointer;
+}

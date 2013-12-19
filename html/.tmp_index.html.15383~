@@ -1,0 +1,189 @@
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+            "http://www.w3.org/TR/html4/strict.dtd">
+    <html> 
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta name="description" content="For the Presenter On The Go!">
+		<meta name="keywords" content="Casio, Projectors">
+		<meta name="author" content="SGC, Joey">
+		<meta name="robots" content="all">
+				
+		<title>Casio Projectors</title>
+		
+		
+		<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/reset.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/style.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/presentationCycle.css">
+		<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/style-ie7.css">
+		<![endif]-->
+
+	</head>
+	<body>
+		
+		
+		
+		
+<div id="body-container">
+	
+	<div id="header">
+		<div id="header-TopLinks">
+			<ul class="floatLeft">
+				<li><a href="index.html" class="active">Home</a></li>
+				<li><a href="index-landing.html">Projectors</a></li>
+				<li><a href="index-features_LampAndMercuryFree.html">Features</a></li>
+				<li><a href="index-wheretobuy.html">Where To Buy</a></li>
+				<li><a href="index-support.html">Support</a></li>
+			</ul> 
+			<ul class="floatRight">
+				<li><a href="index-news.html">news</a></li>
+				<li><a href="index-mailinglist.html">mailing list</a></li>
+				<li><h1><a href="index.html"><img src="../images/index-topLinks-logo.png" alt="Casio" id="header-logo"></a></h1></li>
+			</ul>  
+		</div><!-- End #header-TopNav-->
+		
+	</div><!-- End #header-->
+	
+	
+	<div id="body-MainContent">
+				
+				
+
+				<ul id="index-hero">
+					<li><a href="index-detail_greenslim.html" class="arrowFade"><img src="../images/index-home/index-hero_greenslim-bgNoRepeat.jpg">
+						<div class="hero-headline">
+							<h1><a href="index-detail_greenslim.html"><img src="../images/index-home/index-hero_greenslim-h1.png" alt="GREENSLIM PROJECTOR"></a></h1>
+							<h2><a href="index-detail_greenslim.html"><img src="../images/index-home/index-hero_greenslim-h2.png" alt="The Eco friendly business projectors"></a></h2>
+							<a href="index-detail_greenslim.html"><img src="../images/btn_transgreyArrow.png" alt="Go" class="arrow"></a>
+						</div>
+						</a>
+					</li>	
+				</ul><!-- END MAIN INDEX HERO -->
+				
+				
+				<div id="body-MainNewsTicker">
+					
+					<ul>
+						<li id="MainNewsTicker-Badge">Latest News:</li>
+						<li id="MainNewsTicker-Ticks">
+							<ul>
+								<li>Sed molestie augue sit amet leo consequat posuere. Vestibulum ante. <a href="#">Read More</a></li>
+								<li>Pellentesque eu est a nulla placerat dignissim. Morbi a enim in magna semper bibendum. <a href="#">Read More</a></li>
+								<li>Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque. <a href="#">Read More</a></li>
+								<li>Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus. <a href="#">Read More</a></li>
+							</ul>
+						</li>
+					</ul>
+					
+				</div><!-- END MAIN NEWS TICKER -->
+					
+				<ul id="index-buckets">
+					<li onclick="location.href='index-detail_greenslim.html';">
+						<h3><a href="javascript:void(0);"><img src="../images/h3-greenslim-21px.png" alt="GREENSLIM"></a></h3>
+						<a href="javascript:void(0);"><img src="../images/index-home/index-buckets_greenslim.png" alt="Greenslim" class="bucket-img greenslim"></a>
+						<p>Lorem ipsum dolor sit amet, consectetur 
+						adipisicing elit, sed do eiusmod.</p>
+						<div class="bucketArrow"><img src="../images/btn_greenArrow.gif" class="arrow"></div>
+					</li>
+					<li onclick="location.href='index-detail_greenslim.html';" class="even">
+						<h3><a href="javascript:void(0);"><img src="../images/h3-proline-21px.png" alt="PROLINE"></a></h3>
+						<a href="javascript:void(0);"><img src="../images/index-home/index-buckets_proline.png" alt="Greenslim" class="bucket-img"></a>
+						<p>Lorem ipsum dolor sit amet, consectetur 
+						adipisicing elit, sed do eiusmod.</p>
+						<div class="bucketArrow"><img src="../images/btn_greenArrow.gif" class="arrow"></div>
+					</li>
+					<li onclick="location.href='index-detail_greenslim.html';">
+						<h3><a href="javascript:void(0);"><img src="../images/h3-signature-21px.png" alt="SIGNATURE"></a></h3>
+						<a href="javascript:void(0);"><img src="../images/index-home/index-buckets_signature.png" alt="Greenslim" class="bucket-img signature"></a>
+						<p>Lorem ipsum dolor sit amet, consectetur 
+						adipisicing elit, sed do eiusmod.</p>
+						<div class="bucketArrow"><img src="../images/btn_greenArrow.gif" class="arrow"></div>
+					</li>
+					<li onclick="location.href='index-detail_greenslim.html';" class="even">
+						<h3><a href="javascript:void(0);"><img src="../images/h3-shortthrow-21px.png" alt="SHORT-THROW"></a></h3>
+						<a href="javascript:void(0);"><img src="../images/index-home/index-buckets_shortthrow.png" alt="Greenslim" class="bucket-img"></a>
+						<p>Lorem ipsum dolor sit amet, consectetur 
+						adipisicing elit, sed do eiusmod.</p>
+						<div class="bucketArrow"><img src="../images/btn_greenArrow.gif" class="arrow"></div>
+					</li>
+				</ul>		
+		
+	</div><!-- END MAIN CONTENT -->
+			
+			
+			
+			<div id="footer">
+				<div id="footer-SiteMap">
+					
+					<ul>
+						<li class="col-first">
+							<img src="../images/index-footer-logo.png" alt="Laser & LED Hybrid" id="footer-logo">			
+						</li>
+						<li class="col-second">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Projectors</a></li>
+								<li><a href="javascript:void(0);">Features</a></li>
+								<li><a href="javascript:void(0);">Where to Buy</a></li>
+								<li><a href="javascript:void(0);">Support</a></li>
+							</ul>
+						</li>
+						<li class="col-third">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Greenslim</a></li>
+								<li><a href="javascript:void(0);">Pro Slim</a></li>
+								<li><a href="javascript:void(0);">Signature</a></li>
+								<li><a href="javascript:void(0);">Short-Throw</a></li>
+							</ul>
+						</li>
+						<li class="col-fourth">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Product Registration</a></li>
+								<li><a href="javascript:void(0);">Projector Support</a></li>
+								<li><a href="javascript:void(0);">Drivers / Downloads</a></li>
+								<li><a href="javascript:void(0);">Projector Accessories</a></li>
+								<li><a href="javascript:void(0);">Accessories</a></li>
+							</ul>
+						</li>
+						<li class="col-fifth">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Projector FAQ</a></li>
+								<li><a href="javascript:void(0);">Projector Manuals</a></li>
+								<li><a href="javascript:void(0);">Product Manuals</a></li>
+								<li><a href="javascript:void(0);">Contact Us</a></li>
+							</ul>
+						</li>
+					</ul>
+					
+				</div><!-- End #footer-SiteMap-->
+				
+				<div id="footer-Copyright">
+					<ul>
+						<li id="footer-1">&copy; 2007 - 2011 CASIO AMERICA, INC.</li>
+						<li id="footer-2"><a href="javascript:void(0);">Copyright</a></li>		
+						<li id="footer-3"><a href="javascript:void(0);">Privacy Policy</a></li>
+					</ul>
+					
+				</div><!-- End #footer-Copyright-->
+				
+			</div><!-- End #footer-->
+			
+		</div><!-- End #body-container-->
+		
+		
+		
+		
+		
+		
+		
+		<script type="text/javascript" src="../script/jquery-1.5.min.js"></script>		
+		<script type="text/javascript" src="../script/jquery-index.js"></script>
+		
+
+
+
+		
+	</body>
+</html>

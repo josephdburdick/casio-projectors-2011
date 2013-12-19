@@ -1,0 +1,222 @@
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+            "http://www.w3.org/TR/html4/strict.dtd">
+    <html> 
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta name="description" content="For the Presenter On The Go!">
+		<meta name="keywords" content="Casio, Projectors">
+		<meta name="author" content="SGC, Joey">
+		<meta name="robots" content="all">
+				
+		<title>Casio Projectors</title>
+		
+		
+		<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/reset.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/style.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/jquery.jscrollpane.css">
+		
+		<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" media="screen" href="../stylesheet/style-ie7.css">
+		<![endif]-->
+
+	</head>
+	<body>
+		
+		
+		
+		
+<div id="body-container">
+	
+	<div id="header">
+		<div id="header-TopLinks">
+			<ul class="floatLeft">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="index-landing.html">Projectors</a></li>
+				<li><a href="index-features.html">Features</a></li>
+				<li><a href="index-wheretobuy.html">Where To Buy</a></li>
+				<li><a href="index-support.html">Support</a></li>
+			</ul> 
+			<ul class="floatRight">
+				<li><a href="index-news.html" class="active">news</a></li>
+				<li><a href="index-mailinglist.html">mailing list</a></li>
+				<li><h1><a href="index.html"><img src="../images/index-topLinks-logo.png" alt="Casio" id="header-logo"></a></h1></li>
+			</ul>  
+		</div><!-- End #header-TopNav-->
+		
+	</div><!-- End #header-->
+	
+	
+	<div id="body-MainContent">
+		<div id="index-MainDetail">	
+			
+			<div class="index-headline">
+				<h1><img src="../images/index-wheretobuy/index-wheretobuy-h1_wheretobuy.png" alt="Where To Buy"></h1>
+			</div>
+			
+			<div class="index-wheretobuy">
+				<span class="ordernow"><a href="javascript:void(0);">Order Now From CASIOUSA.COM <img src="../images/btn_greenArrow.png" alt="Green Arrow"></a> </span>
+				
+				<ul class="wheretobuy-columns">
+					<li class="left">
+						<b>For Corporate U.S. Sales or
+						Dealer Inquiries</b>, please contact:
+						<a href="mailto:projector@casio.com">projector@casio.com</a>
+						<br><br>
+						<b>For Corporate Canada Sales or
+						Dealer Inquiries</b>, please contact:
+						Connsec Products @ 866-768-6161
+					</li>
+					<li class="right">
+							<h2><img src="../images/index-wheretobuy/index-wheretobuy-h2_OnlineRetailers.gif" alt="Online Retailers"></h2>
+							<div id="wheretobuy-onlineretailers">
+								<ul>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_BestBuy.gif" alt="Best Buy"></a></li>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_ProjectorPeople.gif" alt="Projector People"></a></li>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_Staples.gif" alt="Staples"></a></li>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_CDW.gif" alt="CDW"></a></li>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_projectorSuperStore.gif" alt="Projector SuperStore"></a></li>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_TouchBoards.gif" alt="Touchboards"></a></li>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_Frys.gif" alt="Fry's"></a></li>
+									<li><a href="javascript:void(0)"><img src="../images/index-wheretobuy/index-wheretobuy-retailers_B-H.gif" alt="B&H"></a></li>
+								</ul>
+						</div>
+							<h2><img src="../images/index-wheretobuy/index-wheretobuy-h2_DealerLocator.gif" alt="Dealer Locator"></h2>						
+							<form id="wheretobuy-search">
+							<ul id="wheretobuy-search">
+								<li class="col-1">Enter your city & state<br>or zip code
+									<span><input type="text" name="location" value="11211"></span>
+								</li>
+								<li class="col-2">Search within<br>(miles)
+									<span>
+										<select>
+											<option value="5">5</option>
+											<option value="10">10</option>
+											<option value="20">20</option>
+											<option value="30">30</option>
+										</select>
+									</span>
+								</li>
+								<li class="col-3">
+									<span><input type="submit" value="Submit"></span>
+								</li>
+							</ul>
+							(Example: "Boston, MA", "11211", "Ajax, ON", or "M1R 3G7"
+
+							</form>
+							
+							<table id="wheretobuy-results">
+								<tr>
+									<th class="col-1">Store Name & Address</th>
+									<th class="col-2">Telephone</th>
+									<th class="col-3">Distance</th>
+								</tr>
+								<tr>
+									<td>AVI-SPL<br>8 West 38th Street<br>New York, NY US 10018</td>
+									<td>(212) 840-4801</td>
+									<td>3.53 miles</td>
+								</tr>
+								<tr>
+									<td>AVI-SPL<br>8 West 38th Street<br>New York, NY US 10018</td>
+									<td>(212) 840-4801</td>
+									<td>3.53 miles</td>
+								</tr>
+								<tr>
+									<td>AVI-SPL<br>8 West 38th Street<br>New York, NY US 10018</td>
+									<td>(212) 840-4801</td>
+									<td>3.53 miles</td>
+								</tr>
+								<tr>
+									<td>AVI-SPL<br>8 West 38th Street<br>New York, NY US 10018</td>
+									<td>(212) 840-4801</td>
+									<td>3.53 miles</td>
+								</tr>
+							</table>
+						
+					</li>
+				</ul>
+				
+				
+			</div>
+			
+				
+				
+
+		</div><!-- END MAIN DETAIL PAGE -->
+		
+	</div><!-- END MAIN CONTENT -->
+			
+			
+			
+			<div id="footer">
+				<div id="footer-SiteMap">
+					
+					<ul>
+						<li class="col-first">
+							<img src="../images/index-footer-logo.png" alt="Laser & LED Hybrid" id="footer-logo">			
+						</li>
+						<li class="col-second">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Projectors</a></li>
+								<li><a href="javascript:void(0);">Features</a></li>
+								<li><a href="javascript:void(0);">Where to Buy</a></li>
+								<li><a href="javascript:void(0);">Support</a></li>
+							</ul>
+						</li>
+						<li class="col-third">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Greenslim</a></li>
+								<li><a href="javascript:void(0);">Pro Slim</a></li>
+								<li><a href="javascript:void(0);">Signature</a></li>
+								<li><a href="javascript:void(0);">Short-Throw</a></li>
+							</ul>
+						</li>
+						<li class="col-fourth">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Product Registration</a></li>
+								<li><a href="javascript:void(0);">Projector Support</a></li>
+								<li><a href="javascript:void(0);">Drivers / Downloads</a></li>
+								<li><a href="javascript:void(0);">Projector Accessories</a></li>
+								<li><a href="javascript:void(0);">Accessories</a></li>
+							</ul>
+						</li>
+						<li class="col-fifth">
+							<ul class="green">
+								<li><a href="javascript:void(0);">Projector FAQ</a></li>
+								<li><a href="javascript:void(0);">Projector Manuals</a></li>
+								<li><a href="javascript:void(0);">Product Manuals</a></li>
+								<li><a href="javascript:void(0);">Contact Us</a></li>
+							</ul>
+						</li>
+					</ul>
+					
+				</div><!-- End #footer-SiteMap-->
+				
+				<div id="footer-Copyright">
+					<ul>
+						<li id="footer-1">&copy; 2007 - 2011 CASIO AMERICA, INC.</li>
+						<li id="footer-2"><a href="javascript:void(0);">Copyright</a></li>		
+						<li id="footer-3"><a href="javascript:void(0);">Privacy Policy</a></li>
+					</ul>
+					
+				</div><!-- End #footer-Copyright-->
+				
+			</div><!-- End #footer-->
+			
+		</div><!-- End #body-container-->
+		
+		
+		
+		
+		
+		
+		
+		<script type="text/javascript" src="../script/jquery-1.5.min.js"></script>
+		<script type="text/javascript" src="../script/jquery.jscrollpane.min.js"></script>
+		<script type="text/javascript" src="../script/jquery-wheretobuy.js"></script>
+	
+		
+	</body>
+</html>
